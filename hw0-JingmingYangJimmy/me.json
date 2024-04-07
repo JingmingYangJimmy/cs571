@@ -1,0 +1,14 @@
+{
+    "name":{
+        "first":"Jingming",
+        "last":"Yang"
+    },
+    "fromWisconsin":false,
+    "numCredits":14,
+    "major":"Computer Science",
+    "interests":[
+        "Skiing",
+        "Badminton",
+        "Hiking"
+    ]
+}
